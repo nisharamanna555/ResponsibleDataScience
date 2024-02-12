@@ -1,0 +1,1 @@
+This repository contains assignments and projects for Responsible Data Science, a grad level course at NYU's Center For Data Science.
